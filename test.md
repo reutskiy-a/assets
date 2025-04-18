@@ -16,7 +16,7 @@ composer require reutskiy-a/simple-api-bitrix24
 >**[Русский](#русский)**
 > 
 >**[English](#english)**
-
+---
 
 > Local app installation example
 
