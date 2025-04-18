@@ -19,6 +19,7 @@ composer require reutskiy-a/simple-api-bitrix24
 ---
 
 > Local app installation example
+
 ![Installation-demo](https://raw.githubusercontent.com/reutskiy-a/assets/main/api-client-bitrix24-local-app-installation.gif)
 
 ### Русский:
